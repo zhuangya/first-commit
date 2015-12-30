@@ -1,0 +1,27 @@
+{
+  "name": "first-commit",
+  "version": "0.0.1",
+  "description": "just a helper for showing first commit across different vcs",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo --esnext --env node --space && ava"
+  },
+  "keywords": [
+    "git",
+    "svn",
+    "vcs",
+    "hg",
+    "commit"
+  ],
+  "author": "Ya Zhuang <zhuangya@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "debug": "^2.2.0",
+    "moment": "^2.10.6"
+  },
+  "devDependencies": {
+    "ava": "^0.9.1",
+    "xo": "^0.12.1"
+  }
+}
