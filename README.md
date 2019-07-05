@@ -1,4 +1,7 @@
 # first-commit
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/zhuangya/first-commit.svg)](https://greenkeeper.io/)
+
 just a helper for showing first commit across different vcs
 
 [![NPM version][npm-image]][npm-url]
