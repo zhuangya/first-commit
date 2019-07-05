@@ -26,14 +26,14 @@
   "author": "Ya Zhuang <zhuangya@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^1.1.1",
+    "chalk": "^2.4.2",
     "commander": "^2.9.0",
-    "debug": "^2.2.0",
+    "debug": "^4.1.1",
     "moment": "^2.10.6"
   },
   "devDependencies": {
-    "ava": "^0.9.1",
-    "xo": "^0.12.1"
+    "ava": "^2.1.0",
+    "xo": "^0.24.0"
   },
   "analyze": true
 }
